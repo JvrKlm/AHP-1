@@ -49,8 +49,8 @@ require_once '../head.php'
 
     <div class="row">
         <div class="col-sm-4 padding-b-21">
-            <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/slika-01.jpg">
-                <img width="100%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/slika-01.jpg">
+            <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/slika-01.jpg">
+                <img width="100%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/slika-01.jpg">
             </a>
             <span class="label label-primary">Ana Horvat, 1994.</span>
 
@@ -127,14 +127,14 @@ require_once '../head.php'
                 <div class="col-xs-12">
                     <h2>ZALJUBLJENO VOĆE I POVRĆE</h2>
                     <hr>
-                    <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/slika-02.jpg">
-                        <img class="padding-b-21" width="100%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/slika-02.jpg">
+                    <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/slika-02.jpg">
+                        <img class="padding-b-21" width="100%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/slika-02.jpg">
                     </a>
                     <iframe class="padding-b-21" width="100%" height="640" src="https://www.youtube.com/embed/OPY__joOxKk" frameborder="0" allowfullscreen></iframe>
                     <p>ZALJUBLJENO VOĆE I POVRĆE (po novom scenariju Ane Horvat prema njezinoj istoimenoj slikovnici) premijerno je kao kazališna predstava za djecu-musical izvedena u povodu Valentinova 14. veljače 2016. u Kazalištu za djecu i mlade u Zaprešiću. Predstavu je režirala Marina Kostelac, scenografiju, kostime i rasvjetu potpisala Paula Bučar, songove na tekstove pjesama iz slikovnice komponirao Davor Rocco, a autorica plesne koreografije je Rebeka Čuljak.</p>
                     <p>Radio najava za kazališnu premijeru Zaljubljenog voća i povrća 14. veljače 2016.</p>
                     <audio controls style="width:100%;">
-                        <source src="<?php print $base_url; ?>/pjesnicki-recitali/audio/zaljubljeno_voce_povrce.mp3" type="audio/mpeg">
+                        <source src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/audio/zaljubljeno_voce_povrce.mp3" type="audio/mpeg">
                         Your browser does not support the audio element.
                     </audio>
                 </div>
@@ -144,48 +144,48 @@ require_once '../head.php'
 
     <div class="row margin-top">
         <div class="col-sm-4">
-            <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/slika-21.jpg">
-                <img class="padding-b-21 margin-top" width="100%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/slika-21.jpg">
+            <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/slika-21.jpg">
+                <img class="padding-b-21 margin-top" width="100%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/slika-21.jpg">
             </a>
             <p>
                 <br>
                 Papirni stolnjaci koji su bili na stolovima u Klubu Studentskog centra u Zagrebu s otisnutim ljubavnim pjesmama (u izboru voditeljice Tribine): SAN Zvonimira Goloba, JUTRO, Ane Horvat, SVJETILJKA LJUBAVI Dragutina Tadijanovića, PRVA LJUBAV Slavka Mihalića, ZARUKE Tudora Arghezija, KOLIKO SI IMALA LJUBAVNIKA Jirija Šotole, itd.
             </p>
-            <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/slika-22.jpg">
-                <img class="padding-b-21" width="100%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/slika-22.jpg">
+            <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/slika-22.jpg">
+                <img class="padding-b-21" width="100%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/slika-22.jpg">
             </a>
-            <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/slika-23.jpg">
-                <img class="padding-b-21" width="100%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/slika-23.jpg">
+            <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/slika-23.jpg">
+                <img class="padding-b-21" width="100%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/slika-23.jpg">
             </a>
-            <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/slika-24.jpg">
-                <img class="padding-b-21" width="100%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/slika-24.jpg">
+            <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/slika-24.jpg">
+                <img class="padding-b-21" width="100%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/slika-24.jpg">
             </a>
-            <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/slika-25.jpg">
-                <img class="padding-b-21" width="100%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/slika-25.jpg">
+            <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/slika-25.jpg">
+                <img class="padding-b-21" width="100%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/slika-25.jpg">
             </a>
-            <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/slika-26.jpg">
-                <img class="padding-b-21" width="100%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/slika-26.jpg">
+            <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/slika-26.jpg">
+                <img class="padding-b-21" width="100%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/slika-26.jpg">
             </a>
-            <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/slika-27.jpg">
-                <img class="padding-b-21" width="100%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/slika-27.jpg">
+            <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/slika-27.jpg">
+                <img class="padding-b-21" width="100%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/slika-27.jpg">
             </a>
-            <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/slika-28.jpg">
-                <img class="padding-b-21" width="100%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/slika-28.jpg">
+            <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/slika-28.jpg">
+                <img class="padding-b-21" width="100%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/slika-28.jpg">
             </a>
-            <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/slika-29.jpg">
-                <img class="padding-b-21" width="100%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/slika-29.jpg">
+            <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/slika-29.jpg">
+                <img class="padding-b-21" width="100%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/slika-29.jpg">
             </a>
-            <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/slika-30.jpg">
-                <img class="padding-b-21" width="100%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/slika-30.jpg">
+            <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/slika-30.jpg">
+                <img class="padding-b-21" width="100%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/slika-30.jpg">
             </a>
-            <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/slika-31.jpg">
-                <img class="padding-b-21" width="100%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/slika-31.jpg">
+            <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/slika-31.jpg">
+                <img class="padding-b-21" width="100%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/slika-31.jpg">
             </a>
-            <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/slika-32.jpg">
-                <img class="padding-b-21" width="100%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/slika-32.jpg">
+            <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/slika-32.jpg">
+                <img class="padding-b-21" width="100%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/slika-32.jpg">
             </a>
-            <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/slika-33.jpg">
-                <img class="padding-b-21" width="100%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/slika-33.jpg">
+            <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/slika-33.jpg">
+                <img class="padding-b-21" width="100%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/slika-33.jpg">
             </a>
             <p>
                 <br>
@@ -197,25 +197,25 @@ require_once '../head.php'
           <div class="col-sm-8">
                <h2>TRIBINE ANE HORVAT: RAZGOVOR S PJESNIKINJOM</h2> 
                  <hr>
-                  <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/AnaP.jpg">
-                      <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/AnaP.jpg">
+                  <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/anap.jpg">
+                      <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/anap.jpg">
                    </a>
-                   <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/AnaP1.jpg">
-                      <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/AnaP1.jpg">
+                   <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/anap1.jpg">
+                      <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/anap1.jpg">
                    </a>
-                   <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/AnaP2.jpg">
-                      <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/AnaP2.jpg">
+                   <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/anap2.jpg">
+                      <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/anap2.jpg">
                    </a>               
                    <p>Ana Horvat, voditeljica tribine, 2019.</p>
                    <br>
-                   <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/Pub1.jpg">
-                      <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/Pub1.jpg">
+                   <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/pub1.jpg">
+                      <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/pub1.jpg">
                    </a>
-                   <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/Pub2.jpg">
-                      <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/Pub2.jpg">
+                   <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/pub2.jpg">
+                      <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/pub2.jpg">
                    </a>
-                   <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/Pub3.jpg">
-                      <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/Pub3.jpg">
+                   <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/pub3.jpg">
+                      <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/pub3.jpg">
                    </a>
                    <p>Dio publike na tribini, 2019.</p>
                    <br>
@@ -297,190 +297,190 @@ require_once '../head.php'
       <br>
       <p> 6. tribina – 17. 06. 2018. RAZGOVOR S PJESNIKINJOM, KULTURNI CENTAR MESNIČKA, gošća Ane Horvat pjesnikinja SONJA MANOJLOVIĆ</p>
       <br>
-      <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/RSP-6-1.jpg">
-                <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/RSP-6-1.jpg"></a>
-      <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/RSP-6-2.jpg">
-                <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/RSP-6-2.jpg"></a>
-      <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/RSP-6-3.jpg">
-                <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/RSP-6-3.jpg"></a>
-      <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/RSP-6-4.jpg">
-                <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/RSP-6-4.jpg"></a>
-      <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/RSP-6-5.jpg">
-                <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/RSP-6-5.jpg"></a>     
-      <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/RSP-6-6.jpg">
-                <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/RSP-6-6.jpg"></a>        
+      <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/rsp-6-1.jpg">
+                <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/rsp-6-1.jpg"></a>
+      <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/rsp-6-2.jpg">
+                <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/rsp-6-2.jpg"></a>
+      <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/rsp-6-3.jpg">
+                <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/rsp-6-3.jpg"></a>
+      <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/rsp-6-4.jpg">
+                <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/rsp-6-4.jpg"></a>
+      <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/rsp-6-5.jpg">
+                <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/rsp-6-5.jpg"></a>     
+      <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/rsp-6-6.jpg">
+                <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/rsp-6-6.jpg"></a>        
       <hr>
       <p>5. tribina – 03. 06. 2018. RAZGOVOR S PJESNIKINJOM, KULTURNI CENTAR MESNIČKA, gošća Ane Horvat pjesnikinja SANJA PILIĆ</p>
-      <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/RSP-5-1.jpg">
-                <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/RSP-5-1.jpg"></a>
-      <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/RSP-5-2.jpg">
-                <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/RSP-5-2.jpg"></a>
-      <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/RSP-5-3.jpg">
-                <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/RSP-5-3.jpg"></a>
-      <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/RSP-5-4.jpg">
-                <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/RSP-5-4.jpg"></a>
-      <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/RSP-5-5.jpg">
-                <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/RSP-5-5.jpg"></a>     
-      <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/RSP-5-6.jpg">
-                <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/RSP-5-6.jpg"></a>  
-      <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/RSP-5-7.jpg">
-                <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/RSP-5-7.jpg"></a>                
+      <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/rsp-5-1.jpg">
+                <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/rsp-5-1.jpg"></a>
+      <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/rsp-5-2.jpg">
+                <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/rsp-5-2.jpg"></a>
+      <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/rsp-5-3.jpg">
+                <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/rsp-5-3.jpg"></a>
+      <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/rsp-5-4.jpg">
+                <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/rsp-5-4.jpg"></a>
+      <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/rsp-5-5.jpg">
+                <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/rsp-5-5.jpg"></a>     
+      <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/rsp-5-6.jpg">
+                <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/rsp-5-6.jpg"></a>  
+      <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/rsp-5-7.jpg">
+                <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/rsp-5-7.jpg"></a>                
       <hr>              
       <p>4. tribina –  20. 05. 2018. RAZGOVOR S PJESNIKINJOM, KULTURNI CENTAR MESNIČKA gošća Ane Horvat GORDANA IGREC</p>
       <iframe class="padding-b-21" width="100%" height="640" src="https://www.youtube.com/embed/axEauDRpJ7Q&t=1111s" frameborder="0" allowfullscreen></iframe>
-      <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/RSP-4-1.jpg">
-                <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/RSP-4-1.jpg"></a>
-      <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/RSP-4-2.jpg">
-                <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/RSP-4-2.jpg"></a>
-      <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/RSP-4-3.jpg">
-                <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/RSP-4-3.jpg"></a>
-      <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/RSP-4-4.jpg">
-                <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/RSP-4-4.jpg"></a>
-      <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/RSP-4-5.jpg">
-                <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/RSP-4-5.jpg"></a>     
-      <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/RSP-4-6.jpg">
-                <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/RSP-4-6.jpg"></a>  
+      <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/rsp-4-1.jpg">
+                <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/rsp-4-1.jpg"></a>
+      <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/rsp-4-2.jpg">
+                <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/rsp-4-2.jpg"></a>
+      <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/rsp-4-3.jpg">
+                <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/rsp-4-3.jpg"></a>
+      <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/rsp-4-4.jpg">
+                <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/rsp-4-4.jpg"></a>
+      <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/rsp-4-5.jpg">
+                <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/rsp-4-5.jpg"></a>     
+      <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/rsp-4-6.jpg">
+                <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/rsp-4-6.jpg"></a>  
       <hr>        
       <p>3. tribina – 6. 05. 2018. RAZGOVOR S PJESNIKINJOM, KULTURNI CENTAR MESNIČKA, gošća Ane Horvat  pjesnikinja BOŽICA BRKAN</p>
       <iframe class="padding-b-21" width="100%" height="640" src="https://www.youtube.com/embed/u3Byz4i53bE&t=45s" frameborder="0" allowfullscreen></iframe>
-    <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/RSP-3-1.jpg">
-                <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/RSP-3-1.jpg"></a>
-      <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/RSP-3-2.jpg">
-                <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/RSP-3-2.jpg"></a>
-      <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/RSP-3-3.jpg">
-                <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/RSP-3-3.jpg"></a>
-      <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/RSP-3-4.jpg">
-                <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/RSP-3-4.jpg"></a>
-      <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/RSP-3-5.jpg">
-                <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/RSP-3-5.jpg"></a>     
-      <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/RSP-3-6.jpg">
-                <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/RSP-3-6.jpg"></a>                    
+    <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/rsp-3-1.jpg">
+                <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/rsp-3-1.jpg"></a>
+      <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/rsp-3-2.jpg">
+                <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/rsp-3-2.jpg"></a>
+      <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/rsp-3-3.jpg">
+                <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/rsp-3-3.jpg"></a>
+      <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/rsp-3-4.jpg">
+                <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/rsp-3-4.jpg"></a>
+      <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/rsp-3-5.jpg">
+                <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/rsp-3-5.jpg"></a>     
+      <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/rsp-3-6.jpg">
+                <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/rsp-3-6.jpg"></a>                    
       <hr>
       <p>2. tribina –  22. 04. 2018. RAZGOVOR S PJESNIKINJOM, KULTURNI CENTAR MESNIČKA, gošća Ane Horvat  pjesnikinja LJERKA CAR MATUTINOVIĆ</p>
-      <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/RSP-2-1.jpg">
-                <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/RSP-2-1.jpg"></a>
-      <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/RSP-2-2.jpg">
-                <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/RSP-2-2.jpg"></a>
-      <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/RSP-2-3.jpg">
-                <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/RSP-2-3.jpg"></a>
-      <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/RSP-2-4.jpg">
-                <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/RSP-2-4.jpg"></a>
-      <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/RSP-2-5.jpg">
-                <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/RSP-2-5.jpg"></a>          
+      <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/rsp-2-1.jpg">
+                <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/rsp-2-1.jpg"></a>
+      <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/rsp-2-2.jpg">
+                <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/rsp-2-2.jpg"></a>
+      <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/rsp-2-3.jpg">
+                <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/rsp-2-3.jpg"></a>
+      <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/rsp-2-4.jpg">
+                <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/rsp-2-4.jpg"></a>
+      <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/rsp-2-5.jpg">
+                <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/rsp-2-5.jpg"></a>          
       <hr>
       <p>1. tribina – 8. 04. 2018. RAZGOVOR S PJESNIKINJOM, KULTURNI CENTAR MESNIČKA, gošća Ane Horvat  pjesnikinja DIANA BURAZER</p>   
-      <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/RSP-1-1.jpg">
-                <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/RSP-1-1.jpg"></a>
-      <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/RSP-1-2.jpg">
-                <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/RSP-1-2.jpg"></a>
-      <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/RSP-1-3.jpg">
-                <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/RSP-1-3.jpg"></a>
-      <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/RSP-1-4.jpg">
-                <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/RSP-1-4.jpg"></a>                
+      <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/rsp-1-1.jpg">
+                <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/rsp-1-1.jpg"></a>
+      <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/rsp-1-2.jpg">
+                <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/rsp-1-2.jpg"></a>
+      <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/rsp-1-3.jpg">
+                <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/rsp-1-3.jpg"></a>
+      <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/rsp-1-4.jpg">
+                <img class="padding-b-21" width="32%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/rsp-1-4.jpg"></a>                
       <video controls style="width:100%;">
-                        <source src="<?php print $base_url; ?>/pjesnicki-recitali/audio/RSP1_KUPILA_SAM_BRDO.mp4" type="video/mp4">
+                        <source src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/audio/rsp_kupila_brdo.mp4" type="video/mp4">
                         Your browser does not support the video element.
                     </video>
-    </div>            
 
-        <div class="col-sm-8">
+      <br>
+
             <h2>TRIBINE HRVATSKE LJUBAVNE LIRIKE</h2>
             <hr>
-            <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/slika-03.jpg">
-                <img class="padding-b-21" width="100%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/slika-03.jpg">
+            <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/slika-03.jpg">
+                <img class="padding-b-21" width="100%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/slika-03.jpg">
             </a>
-            <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/slika-04.jpg">
-                <img class="padding-b-21" width="100%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/slika-04.jpg">
+            <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/slika-04.jpg">
+                <img class="padding-b-21" width="100%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/slika-04.jpg">
             </a>
             <h>Na tribinama hrvatske ljubavne lirike održavanim u Zagrebu (najprije, u kafiću Chiara, zatim u Klubu Studentskog centra i u Knjižnici Bogdana Ogrizovića) u razdoblju od 2003. do 2007. godine Ana Horvat je predstavila više od pedeset hrvatskih pjesnika, i to:</p>
             <p>Zvonimira Goloba, Nadu Iveljić, Vesnu Parun, Tina Ujevića, Alojza Majetića, Irenu Vrkljan, Nikicu Petraka, Anu Horvat, Željka Kneževića, Vesnu Krmpotić, Antuna Gustava Matoša, Lidiju Bajuk, Dobrišu Cesarić, Božicu Jelušić, Mariju Peakić Mikuljan, Ružicu Cindori, Borbena Vladovića, Seada Begovića, Maju Gjerek Lovreković, Simu Mraovića, Ljerku Car Matutinović, Enea Kiševića, Dragu Ivaniševića, Višnju Stahuljak, Slavka Mihalića, Lanu Derkač, Tita Bilopavlovića, Sanju Pilić, Dianu Burazer, Jozefinu Dautbegović, Delimira Rešickog, Janka Polića Kamova, Eneriku Bijač, Josia Pupačića, Dragutina Tadijanovića, Arsena Dedića, Luku Paljetka, Nikolu Šopa, Stijepu Mijovića Kočana, Ivana Slamniga, Sidu Košutić, Jagodu Zamodu, Željka Sabola, Boru Pavlovića, Igora Zidića, Antuna Branka Šimića, Milana Begovića i Antuna Šoljana.</p>
             <div class="padding-b-21">
-                <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/slika-05.jpg">
-                    <img width="100%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/slika-05.jpg">
+                <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/slika-05.jpg">
+                    <img width="100%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/slika-05.jpg">
                 </a>
                 <span class="label label-primary">Klub Studentskog centra, Tribina 2004. god., Suzana Nikolić i Enes Kišević interpretiraju ljubavnu liriku Maje Gjerek i Enesa Kiševića.</span>
             </div>
             <div class="padding-b-21">
-                <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/slika-06.jpg">
-                    <img width="100%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/slika-06.jpg">
+                <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/slika-06.jpg">
+                    <img width="100%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/slika-06.jpg">
                 </a>
                 <span class="label label-primary">Dramski umjetnici Kristina Krepela i Siniša Ružić na Tribini ljubavne lirike u Knjižnici B. Ogrizovića, 2005. god.</span>
             </div>
             <div class="padding-b-21">
-                <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/slika-07.jpg">
-                    <img width="100%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/slika-07.jpg">
+                <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/slika-07.jpg">
+                    <img width="100%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/slika-07.jpg">
                 </a>
                 <span class="label label-primary">Dramski umjetnici Urša Raukar i Sven Šestak interpretiraju ljubavnu poeziju na Tribini u Knjižnici B. Ogrizovića, 2005. godine..</span>
             </div>
             <div class="padding-b-21">
-                <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/slika-08.jpg">
-                    <img width="100%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/slika-08.jpg">
+                <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/slika-08.jpg">
+                    <img width="100%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/slika-08.jpg">
                 </a>
                 <span class="label label-primary">Glumci Marko Torjanac, Suzana Nikolić, te pjesnici Borben Vladović i Ružica Cindori na Tribini u Knjižnici B. Ogrizovića, 2007. god.</span>
             </div>
             <div class="padding-b-21">
-                <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/slika-09.jpg">
-                    <img width="100%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/slika-09.jpg">
+                <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/slika-09.jpg">
+                    <img width="100%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/slika-09.jpg">
                 </a>
                 <span class="label label-primary">Dramski umjetnici Suzana Nikolić i Marko Torjanac recitiraju na Tribini ljubavne lirike, Knjižnica B. Ogrizovića, 2005.godine.</span>
             </div>
             <div class="padding-b-21">
-                <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/slika-10.jpg">
-                    <img width="100%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/slika-10.jpg">
+                <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/slika-10.jpg">
+                    <img width="100%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/slika-10.jpg">
                 </a>
                 <span class="label label-primary">Glumci Semka Sokolović Bertok i Predrag Vušović (sa psom Putom) recitiraju na festivalu Cest is d' best 2007. godine liriku posvećenu napuštenim psima Višnje Stahuljak i Ane Horvat.</span>
             </div>
             <p>Stihove hrvatskih pjesnika na tribinama su interpretirali dramski umjetnici: Suzana Nikolić, Sreten Mokrović, Doris Šarić Kukuljica, Zvonko Novosel, Kristina Krepela, Siniša Ružić, Damir Šaban, Semka Sokolović Bertok, Sven Šestak, Marko Torijanac, Lela Margitić, Predrag Vušović, Urša Raukar, Biserka Fatur, Kostadinka Velkoska, Enes Kišević i Marina Kostelac.</p>
             <p>Šansone na uglazbljene ljubavne stihove devet hrvatskih pjesnika pod naslovom POEZIJA U ŠANSONI pjevale su na posebnoj Tribini hrvatske ljubavne lirike 31.siječnja 2004.  u KLUBU Studentswkog Centra u Zagrebu: Sandra Bagarić, Lada Kos, Ksenija Erker, Lela Margitić, Kostadinka Velkoska i Lidija Bajuk</p>
             <div class="padding-b-21">
-                <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/slika-11.jpg">
-                    <img width="100%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/slika-11.jpg">
+                <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/slika-11.jpg">
+                    <img width="100%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/slika-11.jpg">
                 </a>
                 <span class="label label-primary">Gloria, 6. 2. 2004., POEZIJA U ŠANSONI 2004. (od lijeva na desno): Lada Kos, Lidija Bajuk, Kostadinka Velkovska, Ksenija Erker, Sandra Bagarić i Lela Margitić.</span>
             </div>
             <div class="padding-b-21">
-                <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/slika-12.jpg">
-                    <img width="100%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/slika-12.jpg">
+                <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/slika-12.jpg">
+                    <img width="100%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/slika-12.jpg">
                 </a>
             </div>
             <div class="padding-b-21">
-                <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/slika-13.jpg">
-                    <img width="100%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/slika-13.jpg">
+                <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/slika-13.jpg">
+                    <img width="100%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/slika-13.jpg">
                 </a>
             </div>
             <div class="padding-b-21">
-                <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/slika-14.jpg">
-                    <img width="100%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/slika-14.jpg">
+                <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/slika-14.jpg">
+                    <img width="100%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/slika-14.jpg">
                 </a>
             </div>
             <div class="padding-b-21">
-                <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/slika-15.jpg">
-                    <img width="100%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/slika-15.jpg">
+                <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/slika-15.jpg">
+                    <img width="100%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/slika-15.jpg">
                 </a>
             </div>
             <div class="padding-b-21">
-                <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/slika-16.jpg">
-                    <img width="100%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/slika-16.jpg">
+                <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/slika-16.jpg">
+                    <img width="100%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/slika-16.jpg">
                 </a>
             </div>
             <div class="padding-b-21">
-                <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/slika-17.jpg">
-                    <img width="100%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/slika-17.jpg">
+                <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/slika-17.jpg">
+                    <img width="100%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/slika-17.jpg">
                 </a>
             </div>
             <div class="padding-b-21">
-                <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/slika-18.jpg">
-                    <img width="100%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/slika-18.jpg">
+                <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/slika-18.jpg">
+                    <img width="100%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/slika-18.jpg">
                 </a>
             </div>
             <div class="padding-b-21">
-                <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/slika-19.jpg">
-                    <img width="100%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/slika-19.jpg">
+                <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/slika-19.jpg">
+                    <img width="100%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/slika-19.jpg">
                 </a>
             </div>
             <div class="padding-b-21">
-                <a href="<?php print $base_url; ?>/pjesnicki-recitali/img/slika-20.jpg">
-                    <img width="100%" src="<?php print $base_url; ?>/pjesnicki-recitali/img/slika-20.jpg">
+                <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/slika-20.jpg">
+                    <img width="100%" src="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/img/slika-20.jpg">
                 </a>
             </div>
         </div>

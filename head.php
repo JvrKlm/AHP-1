@@ -1,7 +1,7 @@
 <?php
 
   session_start();
-  $base_url='http://localhost/ahp/';
+  $base_url='http://localhost/AHP';
 
 ?>
 
