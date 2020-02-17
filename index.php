@@ -211,11 +211,12 @@ require_once 'head.php'
                 </div>
 
                 <div class="col-xs-6 padding-tb-42-21">
-                    <a href="<?php print $base_url; ?>/pjesnicki-recitali/">
+                    <a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/">
                         <img width="100%" src="<?php print $base_url; ?>/img/slika-08.jpg">
                         <div class="tekst-na-slici">
-                            <h3>PJESNIČKI RECITALI</h3>
-                            <p>Recitali ljubavne lirike: MJESTO U SPOMENARU i PJEŠČANA OGRLICA u izvođenju dramskih umjetnika i recitatora, te dječja kazališna predstava-musical ZALJUBLJENO VOĆE I POVRĆE.</p>
+                            <h3>PJESNIČKI RECITALI I TRIBINE</h3>
+                            <p>Recitali ljubavne lirike: MJESTO U SPOMENARU i PJEŠČANA OGRLICA u izvođenju dramskih umjetnika i recitatora, te dječja kazališna predstava-musical ZALJUBLJENO VOĆE I POVRĆE.</p> <br>
+                            <p>Tribine: HRVATSKA LJUBAVNA LIRIKA (i "Poezija u šansoni") i RAZGOVOR S PJESNIKINJOM (i "Pjesnikinje u Lisinskom").</p>
                         </div>
                     </a>
                 </div>
