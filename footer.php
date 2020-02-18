@@ -8,11 +8,27 @@
             </div>
         </div>
 
+        <?php
+        
+        //Connects to your Database 
+        mysql_connect("localhost", "anahorv_brojac", "Zec2605!") or die(mysql_error());
+        mysql_select_db("anahorv_brojac") or die(mysql_error());
+
+        //Has visitor been counted in this session?
+        //If not, increase counter value by one
+        if (!isset($_SESSION['hasVisited'])) {
+            $_SESSION['hasVisited'] = "yes";
+          //Adds one to the counter
+            mysql_query("UPDATE counter SET counter = counter + 1");
+        }
+        ?>
 
         <div class="row" style="margin-top:15px;">
             <div class="col-xs-12 text-center">
-                
-                <p>Brojač posjeta: <strong>123456</strong></p>
+                <?php 
+                    $count = mysql_fetch_row(mysql_query("SELECT counter FROM counter"));
+                ?>
+                <p>Brojač posjeta: <strong><?php  print "$count[0]"; ?></strong></p>
             </div>
         </div>
 

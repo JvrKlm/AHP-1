@@ -1,7 +1,7 @@
 <?php
 
   session_start();
-  $base_url='http://localhost/AHP';
+  $base_url='http://ana-horvat-poetry.net';
 
 ?>
 
@@ -63,7 +63,7 @@
                 <li><a href="<?php print $base_url; ?>/recenzije-i-kritike/">RECENZIJE I KRITIKE</a></li>
                 <li><a href="<?php print $base_url; ?>/antologije-poezije/">ANTOLOGIJE POEZIJE</a></li>
                 <li><a href="<?php print $base_url; ?>/prijevodi-poezije/">PRIJEVODI POEZIJE</a></li>
-                <li><a href="<?php print $base_url; ?>/pjesnicki-recitali-i-tribine/">PJESNIČKI RECITALI I TRIBINE</a></li>
+                <li><a href="<?php print $base_url; ?>/pjesnicki-recitali/">PJESNIČKI RECITALI</a></li>
                 <li><a href="<?php print $base_url; ?>/predstavljanje-knjiga/">PREDSTAVLJANJE KNJIGA</a></li>
                 <li><a href="http://www.pjesnici-ane-horvat.net/">POEZIJA NA INTERNETU</a></li>
                 <li><a href="http://drugaprilika.hr/">ZAŠTITA ŽIVOTINJA</a></li>
